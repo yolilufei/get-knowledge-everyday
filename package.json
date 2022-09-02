@@ -10,10 +10,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    
+    "mobx-react-lite": "^3.4.0"
   },
   "devDependencies": {
-    
+    "node-schedule": "^2.1.0"
   },
   "engines": {
     "node": ">14.*",
