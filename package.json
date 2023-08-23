@@ -16,8 +16,6 @@
     "node-schedule": "^2.1.0"
   },
   "engines": {
-    "node": ">14.*",
-    "npm": ">6.*"
-  },
-  "type": "module"
+    "node": ">=20"
+  }
 }
